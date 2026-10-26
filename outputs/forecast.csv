@@ -1,0 +1,19 @@
+city,base_date,date,horizon_days,predicted_aqi,predicted_category,prob_unhealthy_or_worse,alert
+Faisalabad,2024-12-31,2025-01-01,1,164.3,Unhealthy,0.773,True
+Faisalabad,2024-12-31,2025-01-02,2,162.1,Unhealthy,0.834,True
+Faisalabad,2024-12-31,2025-01-03,3,183.0,Unhealthy,0.836,True
+Islamabad,2024-12-31,2025-01-01,1,152.1,Unhealthy,0.617,True
+Islamabad,2024-12-31,2025-01-02,2,147.9,Unhealthy,0.541,True
+Islamabad,2024-12-31,2025-01-03,3,146.7,Unhealthy,0.572,True
+Karachi,2024-12-31,2025-01-01,1,156.1,Unhealthy,0.663,True
+Karachi,2024-12-31,2025-01-02,2,154.5,Unhealthy,0.547,True
+Karachi,2024-12-31,2025-01-03,3,148.6,Unhealthy,0.562,True
+Lahore,2024-12-31,2025-01-01,1,393.1,Hazardous,1.0,True
+Lahore,2024-12-31,2025-01-02,2,355.7,Hazardous,0.999,True
+Lahore,2024-12-31,2025-01-03,3,317.4,Very Unhealthy,0.995,True
+Multan,2024-12-31,2025-01-01,1,186.8,Unhealthy,0.977,True
+Multan,2024-12-31,2025-01-02,2,216.8,Unhealthy,0.96,True
+Multan,2024-12-31,2025-01-03,3,212.1,Unhealthy,0.98,True
+Peshawar,2024-12-31,2025-01-01,1,162.8,Unhealthy,0.817,True
+Peshawar,2024-12-31,2025-01-02,2,180.7,Unhealthy,0.843,True
+Peshawar,2024-12-31,2025-01-03,3,178.9,Unhealthy,0.844,True
